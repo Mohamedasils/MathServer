@@ -30,7 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 math.html
 
 <html>
@@ -129,7 +129,7 @@ urlpatterns = [
     path('areaofasquareprism/',views.prismarea,name="areaofasquareprism"),
     path('',views.prismarea,name="areaofasquareprismroot")
 ]
-
+```
 ## SERVER SIDE PROCESSING:
 
 ![Alt text](<Screenshot (22).png>)
